@@ -22,6 +22,11 @@
  " colorscheme
  " molookai
  NeoBundle 'tomasr/molokai'
+ " markdown preview
+ " previm
+ NeoBundle 'kannokanno/previm'
+ " open-browser
+ NeoBundle 'tyru/open-browser.vim'
 
  call neobundle#end()
 
