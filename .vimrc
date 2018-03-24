@@ -61,6 +61,9 @@ set listchars=tab:>-,trail:-,eol:$,extends:>,precedes:<,nbsp:%
 set fileformat=unix
 set fileencoding=utf-8
 set statusline=%F%m%r%h%w\%=[%c,%l/%L]\[FORMAT=%{&ff}]\[ENC=%{&fileencoding}]\[TYPE=%Y]
+set expandtab
+set tabstop=4
+set shiftwidth=4
 filetype plugin indent on
 set ruler
 
